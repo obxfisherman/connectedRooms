@@ -4,8 +4,9 @@ Produces a map of interconnected rooms
     and other inspiration from 
         https://gist.github.com/Joker-vD/cc5372a349559b9d1a3b220d5eaf2b01
 
-(Sorry, I have no clue on how formatting works here)
+~~(Sorry, I have no clue on how formatting works here)~~
 
+```
 generate.py
                                        ###########
                                        #.........#
@@ -46,3 +47,4 @@ generate.py
                            #.........#        #............#           #........#
                            #.........#        ##############           ##########
                            ###########
+```
